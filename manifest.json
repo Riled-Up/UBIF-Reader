@@ -1,0 +1,12 @@
+{
+	"name": "UBIF Reader",
+	"version": "0.1",
+	"description": "Reads UBIF work orders into a printable format.",
+	"manifest_version": 3,
+	"author": "Riley Guy",
+	"action":{
+		"default_icon": "icon.png",
+		"default_popup": "popup.html",
+		"default_title": "UBIF Reader"
+	}
+}
